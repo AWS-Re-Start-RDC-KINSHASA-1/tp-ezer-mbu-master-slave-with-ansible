@@ -24,7 +24,7 @@
 
     - name: Clone repository
       git:
-        repo: https://github.com/AWS-Re-Start-RDC-KINSHASA-1/tp-ezer-mbu-master-slave-with-ansible.git
+        repo: https://github.com/ezermbu/ansible-ec2-website-deployment.git
         dest: /tmp/repo_clone
         force: yes
 
